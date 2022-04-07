@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrlR6jyHMN97haEs5FZi18n5yGQCM/Ma/ILJVx9LLnN1VQH3Ginxr0PIVQJSgOKiTBSngmpuUor1RCGZOXdTzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mexii\\source\\repos\\eTickets\\eTickets\\eTickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mexii\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
